@@ -1,0 +1,8 @@
+Data are as follows:
+      STATUS             ID                NAME            Age
+    --------           ----              ------           ----
+[0]  EMPTY   
+[1]  EMPTY   
+[2]  EMPTY   
+[3]  DELETED 
+[4]  OCCUPIED             69          Anil Gupta             26
